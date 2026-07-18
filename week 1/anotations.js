@@ -1,4 +1,3 @@
-"use strict";
 // variable,  Array annotations 
 let student = "Anjali";
 let roomnumber = 103;
@@ -11,4 +10,6 @@ function hostelfee(rent, messfee) {
 let totalfee = hostelfee(expenses[0], expenses[1]);
 console.log(`Student Name :${student}`);
 console.log(`RoomNumber:${roomnumber}`);
+console.log(`Mess is provided:${messfoodpaid}`);
 console.log("Total Hostel fee: $" + totalfee);
+export {};

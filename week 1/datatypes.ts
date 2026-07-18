@@ -16,3 +16,4 @@ if(votersAge){
 } else{
     console.log("you are not eligible");
 }
+console.log(`${studentname} 's total cost is ${totalcost}`);
