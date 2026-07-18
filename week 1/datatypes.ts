@@ -1,5 +1,6 @@
+export {}
 //Number datatype
-let price: number =550;
+let  price: number =550;
 let shippingcharge: number =90;
 let totalcost : number = price + shippingcharge;
 console.log(totalcost);
