@@ -13,4 +13,5 @@ console.log("Static Score:", Game.score); // Output: 100
 let myGame = new Game();
 console.log("Readonly Name:", myGame.gameName); // Output: Chess
 
- 
+
+

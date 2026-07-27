@@ -1,3 +1,4 @@
+export
 namespace Calculator {
 
     export function add(a: number, b: number): void {

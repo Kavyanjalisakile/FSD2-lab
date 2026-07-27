@@ -1,3 +1,4 @@
+export
 // Generic Variable (using a generic type)
 let value: number = 100;
 console.log("Generic Variable:", value);
