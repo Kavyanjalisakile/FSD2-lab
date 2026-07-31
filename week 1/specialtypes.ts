@@ -4,7 +4,7 @@ message = 92;
 message = true;
 console.log(message);
 // using unknown (it is alternative to any)
-let moviename : unknown ="Demon slayer";
+let moviename : unknown = "Demons slayer";
 if (typeof moviename == "string"){
     let upperText : string =moviename.toUpperCase();
     console.log(upperText);
